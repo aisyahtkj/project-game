@@ -23,3 +23,5 @@ for i in range(0, a):
     print('')
 
 print('\n\n3')
+a = 5
+s = 2 * a - 2 # for spaces
