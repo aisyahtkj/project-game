@@ -50,3 +50,4 @@ print('\n\n5')
 a = 5*
 s = a - 1 # for spaces
 for i in range(0, a):
+    for j in range(0, s):
