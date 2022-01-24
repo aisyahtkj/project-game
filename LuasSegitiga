@@ -48,3 +48,4 @@ for i in range(0, a):
 
 print('\n\n5')
 a = 5*
+s = a - 1 # for spaces
