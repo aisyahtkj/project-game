@@ -1,2 +1,3 @@
 tambah
 # Menginput Alas dan Tinggi Segitiga
+alas = float(input('Tulis Alas Segitiga: '))
