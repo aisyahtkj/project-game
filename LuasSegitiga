@@ -6,3 +6,6 @@ tinggi = float(input('Tulis Tinggi Segitiga: '))
 luas = (alas * tinggi) / 2
 #Menampilkan Hasil Perhitungan
 print('Luas Segitiga adalah %0.2f' %luas)
+
+print('1')
+a = 5
