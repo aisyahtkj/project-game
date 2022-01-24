@@ -43,5 +43,8 @@ for i in range(0, a):
     s += 2
     for j in range(0, a):
         print('* ' , end='')
-        a -= 1
+    a -= 1
     print('')
+
+print('\n\n5')
+a = 5*
