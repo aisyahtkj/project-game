@@ -59,3 +59,5 @@ for i in range(0, a):
     print('') 
 
 print('\n\n6')
+a = 5
+s = 0 # for spaces
