@@ -7,8 +7,6 @@ luas = (alas * tinggi) / 2
 #Menampilkan Hasil Perhitungan
 print('Luas Segitiga adalah %0.2f' %luas)
 
-a = 5
-for i in range(0, a):
 
 print('1')
 a = 5
@@ -72,5 +70,8 @@ for i in range(0, a):
         print('* ' , end='')
     a -= 1
     print('')
+
+a = 5
+    
     
     
